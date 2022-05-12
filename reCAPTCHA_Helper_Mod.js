@@ -4,7 +4,7 @@
 // @version      1.1.4
 // @description  This automatically clicks or executes on any reCAPTCHA on the webpage and submits its form directly after you solved it.
 // @author       Royalgamer06
-// @include      *
+// @include      *://*/*
 // @grant        none
 // @run-at       document-start
 // ==/UserScript==
